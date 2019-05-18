@@ -1,4 +1,4 @@
-github "AliSoftware/OHHTTPStubs"
-github "ZipArchive/ZipArchive"
+# github "AliSoftware/OHHTTPStubs"
+# github "ZipArchive/ZipArchive"
 github "plume-design/filestack-swift"
-github "krzyzanowskim/CryptoSwift"
+# github "krzyzanowskim/CryptoSwift"
